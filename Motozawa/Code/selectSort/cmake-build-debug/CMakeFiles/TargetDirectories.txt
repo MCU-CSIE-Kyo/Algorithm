@@ -1,3 +1,0 @@
-/Users/motosawa/Documents/C語言學習筆記/selectSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/motosawa/Documents/C語言學習筆記/selectSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/motosawa/Documents/C語言學習筆記/selectSort/cmake-build-debug/CMakeFiles/selectSort.dir
